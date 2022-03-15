@@ -47,3 +47,7 @@ melemparkannya ke sudut ruangan.
 
 "Terakhir kali aku melihatmu, kau masih bayi," kata si raksasa. "Kau mirip sekali
 ayahmu, tapi matamu mata ibumu."
+
+case 3
+Si raksasa tertawa. "Betul, aku belum perkenalkan diri. Rubeus Hagrid, pemegang kunci dan pengawas
+binatang liar di Hogwarts."
