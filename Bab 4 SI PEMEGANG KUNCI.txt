@@ -21,10 +21,19 @@ panjangnya yang awut-awutan dan berewok liar yang berantakan.
 Tetapi kau bisa melihat
 matanya, berkilauan bagai dua kumbang hitam di balik rambut awut-awutan itu.
 
+<<<<<<< HEAD
+
+=======
 case 2
 Si raksasa memaksakan diri masuk, menunduk sehingga kepalanya cuma menyentuh
 langit-langit. Dia membungkuk, memungut pintu, dan dengan mudah memasangnya kembali
 ke engselnya. Deru badai di luar teredam sedikit.
+<<<<<<< HEAD
 
-"Terakhir kali aku melihatmu, kau masih bayi," kata si raksasa. "Kau mirip sekali
-ayahmu, tapi matamu mata ibumu."
+
+
+"Ah, tutup mulut, Dursley, jangan sok," kata si raksasa.
+Tangannya menjangkau ke belakang sofa, menjambret senapan dari tangan Paman
+Vernon, membengkokkannya seakan senapan itu terbuat dari karet saja, lalu
+melemparkannya ke sudut ruangan.
+>>>>>>> 23b4b6042f19d4a69222e94fa7bffc109b5119cf
