@@ -21,4 +21,17 @@ panjangnya yang awut-awutan dan berewok liar yang berantakan.
 Tetapi kau bisa melihat
 matanya, berkilauan bagai dua kumbang hitam di balik rambut awut-awutan itu.
 
+<<<<<<< HEAD
 
+=======
+case 2
+Si raksasa memaksakan diri masuk, menunduk sehingga kepalanya cuma menyentuh
+langit-langit. Dia membungkuk, memungut pintu, dan dengan mudah memasangnya kembali
+ke engselnya. Deru badai di luar teredam sedikit.
+>>>>>>> 794ebdde1216e7abee973c0f5203dc3b753c5367
+
+
+"Ah, tutup mulut, Dursley, jangan sok," kata si raksasa.
+Tangannya menjangkau ke belakang sofa, menjambret senapan dari tangan Paman
+Vernon, membengkokkannya seakan senapan itu terbuat dari karet saja, lalu
+melemparkannya ke sudut ruangan.
